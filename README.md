@@ -29,3 +29,5 @@ The project uses established statistical tools and libraries including:
 - Ranking of predictor importance
 - Statistical validation of the relationships between predictors and response
 - Interpretable insights for both technical and non-technical audiences
+
+![Final plot explaining the Variance by each variable](output.png)
